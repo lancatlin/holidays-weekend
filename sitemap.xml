@@ -8,15 +8,19 @@
   </url>
   
   <url>
-    <loc>https://lancatlin.github.io/holidays-weekend/artists/</loc>
-  </url>
-  
-  <url>
     <loc>https://lancatlin.github.io/holidays-weekend/categories/</loc>
   </url>
   
   <url>
+    <loc>https://lancatlin.github.io/holidays-weekend/concert-program/</loc>
+  </url>
+  
+  <url>
     <loc>https://lancatlin.github.io/holidays-weekend/</loc>
+  </url>
+  
+  <url>
+    <loc>https://lancatlin.github.io/holidays-weekend/performers/</loc>
   </url>
   
   <url>
@@ -25,10 +29,6 @@
   
   <url>
     <loc>https://lancatlin.github.io/holidays-weekend/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lancatlin.github.io/holidays-weekend/songs/</loc>
   </url>
   
 </urlset>
